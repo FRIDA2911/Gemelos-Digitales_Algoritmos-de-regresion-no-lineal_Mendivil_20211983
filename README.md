@@ -1,0 +1,1 @@
+# Gamelos-Digitales-Algoritmos-de-regresi-n-no-lineal
